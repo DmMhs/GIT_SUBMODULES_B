@@ -1,0 +1,1 @@
+exports.sayHiService = require('./say-hi');
