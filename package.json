@@ -1,0 +1,19 @@
+{
+  "name": "reports",
+  "version": "1.0.0",
+  "description": "REPORTS",
+  "main": "./index.js",
+  "scripts": {
+    "start": "nodemon ./app/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0"
+  }
+}
