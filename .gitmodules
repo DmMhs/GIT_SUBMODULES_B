@@ -1,3 +1,4 @@
 [submodule "@cmbp/app-a"]
 	path = @cmbp/app-a
 	url = git@gitlab2.eleks-software.local:Autodesk-CMBP/cmbpd-9178_submodule_a.git
+	branch = main
